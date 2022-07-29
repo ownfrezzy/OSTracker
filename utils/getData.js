@@ -1,3 +1,4 @@
+require('dotenv').config();
 const scraperapiClient = require('scraperapi-sdk')(process.env.PROXY_KEY);
 const { logger } = require('./logger');
 
