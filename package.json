@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@grammyjs/menu": "^1.1.2",
+    "@grammyjs/router": "^2.0.0",
+    "dotenv": "^16.0.1",
+    "eslint": "^8.2.0",
+    "grammy": "^1.9.2",
+    "grammy-inline-menu": "^8.0.0",
+    "mongoose": "^6.4.7",
+    "prettier": "^2.7.1",
+    "scraperapi-sdk": "^1.0.6",
+    "web3-utils": "^1.7.4",
+    "winston": "^3.8.1"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb": "19.0.4",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.28.0",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "eslint-plugin-standard": "^5.0.0",
+    "prettier-eslint": "^15.0.1"
+  }
+}
